@@ -20,5 +20,5 @@
     'version': '1.0',
 
     # any module necessary for this one to work correctly
-    'depends': ['account'],
+    'depends': ['account','l10n_ar_account_withholding'],
 }
